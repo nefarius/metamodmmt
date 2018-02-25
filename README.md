@@ -17,4 +17,4 @@ Proxy DLL for Metamod for Half-Life 1 enabling Windows high-resolution timers
  * [Metamod Half-Life Utility mod](https://sourceforge.net/projects/metamod/?source=typ_redirect)
  * [Optimizing a Dedicated Server](https://support.steampowered.com/kb_article.php?ref=5386-HMJI-5162)
  * [Fork of Metamod for Half-Life 1](https://github.com/alliedmodders/metamod-hl1)
- 
+ * [TimerTool](https://github.com/tebjan/TimerTool)
