@@ -11,7 +11,7 @@ Proxy DLL for Metamod for Half-Life 1 enabling Windows high-resolution timers
 -- [Quoted from VALVe](https://support.steampowered.com/kb_article.php?ref=5386-HMJI-5162)
 
 ## Sources
- * [High tickrate and rate SRCDS FAQ]([http://forums.srcds.com/viewtopic/1094](https://web.archive.org/web/20190207185637/http://forums.srcds.com/viewtopic/1094))
+ * [High tickrate and rate SRCDS FAQ](https://web.archive.org/web/20190207185637/http://forums.srcds.com/viewtopic/1094)
  * [timeBeginPeriod function](https://msdn.microsoft.com/en-us/library/vs/alm/dd757624(v=vs.85).aspx?f=255&MSPPError=-2147217396)
  * [Metamod](http://metamod.org/)
  * [Metamod Half-Life Utility mod](https://sourceforge.net/projects/metamod/?source=typ_redirect)
